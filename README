@@ -1,0 +1,14 @@
+*** CURRENTLY FOR 1.12A ONLY ***
+
+Put gem modifiers on different lines.
+
+Ported from GemFix.dll
+
+Install:
+	* Copy gemfix.dll to your game or mod dir
+	* Load gemfix.dll with a loader (PlugY, etc)
+
+Site:
+	http://zenthought.org/project/diablo2
+
+- zinx <zinx@zenthought.org>
